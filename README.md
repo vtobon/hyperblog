@@ -1,4 +1,4 @@
-#Hyperblog 💚
+Hyperblog 💚
 Un blog para el curso de Git y Github de Platzi  
 > El curso de Git y Github de Platzi es lo que me hacia falata para triplicar mi salario y lanzarme a la industria del tejido de lana sintetica con Machine Learning
 > - niñita
